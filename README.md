@@ -1,5 +1,4 @@
-# employee-churn-prediction
-# Employee Churn Prediction
+# Employee Churn Prediction using Machine Learning
 
 ## 📌 Overview
 This project predicts whether an employee will leave the company based on various attributes using a **Random Forest Classifier**. The application is built using **Streamlit** for UI and **Scikit-Learn** for machine learning.
